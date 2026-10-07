@@ -1,6 +1,0 @@
-devdocs_rag\.env
-devdocs_rag\.venv\
-devdocs_rag\venv\
-devdocs_rag\__pycache__\
-*.pyc
-devdocs_rag\.env
