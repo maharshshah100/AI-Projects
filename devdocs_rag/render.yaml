@@ -1,0 +1,25 @@
+# Deploy to Render.com (free tier works for a portfolio demo):
+# 1. Push this repo to GitHub
+# 2. In Render: New -> Blueprint -> connect this repo -> it reads this file automatically
+# 3. Add GROQ_API_KEY as a secret env var in the Render dashboard
+# 4. Render builds and deploys automatically on every push to main
+
+services:
+  - type: web
+    name: devdocs-rag-api
+    env: python
+    buildCommand: "pip install -r requirements.txt && python3 src/build_index.py"
+    startCommand: "uvicorn src.app:app --host 0.0.0.0 --port $PORT"
+    envVars:
+      - key: GROQ_API_KEY
+        sync: false   # set manually in Render dashboard, don't commit the real key
+    healthCheckPath: /health
+
+  - type: web
+    name: devdocs-rag-ui
+    env: python
+    buildCommand: "pip install -r requirements.txt && python3 src/build_index.py"
+    startCommand: "streamlit run streamlit_app.py --server.address=0.0.0.0 --server.port=$PORT"
+    envVars:
+      - key: GROQ_API_KEY
+        sync: false

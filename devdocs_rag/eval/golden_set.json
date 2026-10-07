@@ -1,0 +1,695 @@
+[
+  {
+    "question": "how do I set a memory limit on a container",
+    "expected_refuse": false,
+    "expected_tool": "kubernetes",
+    "expected_source_contains": "manage-resources-containers",
+    "category": "config"
+  },
+  {
+    "question": "what does CrashLoopBackOff mean",
+    "expected_refuse": false,
+    "expected_tool": "kubernetes",
+    "expected_source_contains": "pod-lifecycle",
+    "category": "troubleshooting"
+  },
+  {
+    "question": "how do I configure a liveness probe",
+    "expected_refuse": false,
+    "expected_tool": "kubernetes",
+    "expected_source_contains": "liveness-readiness",
+    "category": "how-to"
+  },
+  {
+    "question": "how do I create a ConfigMap",
+    "expected_refuse": false,
+    "expected_tool": "kubernetes",
+    "expected_source_contains": "configmap",
+    "category": "how-to"
+  },
+  {
+    "question": "what is a StatefulSet used for",
+    "expected_refuse": false,
+    "expected_tool": "kubernetes",
+    "expected_source_contains": "statefulset",
+    "category": "factual"
+  },
+  {
+    "question": "how does DNS resolution work in a cluster",
+    "expected_refuse": false,
+    "expected_tool": "kubernetes",
+    "expected_source_contains": "dns",
+    "category": "factual"
+  },
+  {
+    "question": "how do I expose a service externally",
+    "expected_refuse": false,
+    "expected_tool": "kubernetes",
+    "expected_source_contains": "service",
+    "category": "how-to"
+  },
+  {
+    "question": "how do I create a Kubernetes Secret",
+    "expected_refuse": false,
+    "expected_tool": "kubernetes",
+    "expected_source_contains": "secret",
+    "category": "how-to"
+  },
+  {
+    "question": "what is the kube-scheduler responsible for",
+    "expected_refuse": false,
+    "expected_tool": "kubernetes",
+    "expected_source_contains": "kube-scheduler",
+    "category": "factual"
+  },
+  {
+    "question": "how do I debug a failing pod",
+    "expected_refuse": false,
+    "expected_tool": "kubernetes",
+    "expected_source_contains": "debug-pods",
+    "category": "troubleshooting"
+  },
+  {
+    "question": "what is a Deployment used for in Kubernetes",
+    "expected_refuse": false,
+    "expected_tool": "kubernetes",
+    "expected_source_contains": "deployment",
+    "category": "factual"
+  },
+  {
+    "question": "how do cluster logs work in Kubernetes",
+    "expected_refuse": false,
+    "expected_tool": "kubernetes",
+    "expected_source_contains": "logging",
+    "category": "factual"
+  },
+  {
+    "question": "how do I use persistent volumes in Kubernetes",
+    "expected_refuse": false,
+    "expected_tool": "kubernetes",
+    "expected_source_contains": "persistent-volumes",
+    "category": "how-to"
+  },
+  {
+    "question": "what are requests and limits in Kubernetes",
+    "expected_refuse": false,
+    "expected_tool": "kubernetes",
+    "expected_source_contains": "manage-resources-containers",
+    "category": "factual"
+  },
+  {
+    "question": "what is the pod lifecycle in Kubernetes",
+    "expected_refuse": false,
+    "expected_tool": "kubernetes",
+    "expected_source_contains": "pod-lifecycle",
+    "category": "factual"
+  },
+  {
+    "question": "how do I set environment variables from a ConfigMap",
+    "expected_refuse": false,
+    "expected_tool": "kubernetes",
+    "expected_source_contains": "configmap",
+    "category": "how-to"
+  },
+  {
+    "question": "what's the difference between a readiness and startup probe",
+    "expected_refuse": false,
+    "expected_tool": "kubernetes",
+    "expected_source_contains": "liveness-readiness",
+    "category": "factual"
+  },
+  {
+    "question": "how do I assign memory resources to a pod",
+    "expected_refuse": false,
+    "expected_tool": "kubernetes",
+    "expected_source_contains": "assign-memory-resource",
+    "category": "how-to"
+  },
+  {
+    "question": "how do I troubleshoot DNS issues in Kubernetes",
+    "expected_refuse": false,
+    "expected_tool": "kubernetes",
+    "expected_source_contains": "dns-debugging",
+    "category": "troubleshooting"
+  },
+  {
+    "question": "what is a headless service in Kubernetes",
+    "expected_refuse": false,
+    "expected_tool": "kubernetes",
+    "expected_source_contains": "service",
+    "category": "factual"
+  },
+  {
+    "question": "how do StatefulSets handle pod identity",
+    "expected_refuse": false,
+    "expected_tool": "kubernetes",
+    "expected_source_contains": "statefulset",
+    "category": "factual"
+  },
+  {
+    "question": "how do I mount a Secret as a volume",
+    "expected_refuse": false,
+    "expected_tool": "kubernetes",
+    "expected_source_contains": "secret",
+    "category": "how-to"
+  },
+  {
+    "question": "what happens when a pod exceeds its memory limit",
+    "expected_refuse": false,
+    "expected_tool": "kubernetes",
+    "expected_source_contains": "manage-resources-containers",
+    "category": "troubleshooting"
+  },
+  {
+    "question": "how does the Kubernetes scheduler decide pod placement",
+    "expected_refuse": false,
+    "expected_tool": "kubernetes",
+    "expected_source_contains": "kube-scheduler",
+    "category": "factual"
+  },
+  {
+    "question": "how do I view logs from a container in Kubernetes",
+    "expected_refuse": false,
+    "expected_tool": "kubernetes",
+    "expected_source_contains": "logging",
+    "category": "how-to"
+  },
+  {
+    "question": "what's the difference between a Deployment and a StatefulSet",
+    "expected_refuse": false,
+    "expected_tool": "kubernetes",
+    "expected_source_contains": "statefulset",
+    "category": "comparative"
+  },
+  {
+    "question": "how do I check why a pod is stuck in Pending state",
+    "expected_refuse": false,
+    "expected_tool": "kubernetes",
+    "expected_source_contains": "debug-pods",
+    "category": "troubleshooting"
+  },
+  {
+    "question": "what is a ClusterIP service",
+    "expected_refuse": false,
+    "expected_tool": "kubernetes",
+    "expected_source_contains": "service",
+    "category": "factual"
+  },
+  {
+    "question": "how do I set CPU limits for a pod",
+    "expected_refuse": false,
+    "expected_tool": "kubernetes",
+    "expected_source_contains": "manage-resources-containers",
+    "category": "config"
+  },
+  {
+    "question": "what triggers a container restart in Kubernetes",
+    "expected_refuse": false,
+    "expected_tool": "kubernetes",
+    "expected_source_contains": "pod-lifecycle",
+    "category": "factual"
+  },
+  {
+    "question": "what is a Docker multi-stage build",
+    "expected_refuse": false,
+    "expected_tool": "docker",
+    "expected_source_contains": "multi-stage",
+    "category": "factual"
+  },
+  {
+    "question": "how do I mount a bind mount in Docker",
+    "expected_refuse": false,
+    "expected_tool": "docker",
+    "expected_source_contains": "bind-mounts",
+    "category": "how-to"
+  },
+  {
+    "question": "how do I automatically restart a Docker container",
+    "expected_refuse": false,
+    "expected_tool": "docker",
+    "expected_source_contains": "start-containers-automatically",
+    "category": "how-to"
+  },
+  {
+    "question": "how do I set memory limits for a Docker container",
+    "expected_refuse": false,
+    "expected_tool": "docker",
+    "expected_source_contains": "resource_constraints",
+    "category": "config"
+  },
+  {
+    "question": "how does Docker networking work",
+    "expected_refuse": false,
+    "expected_tool": "docker",
+    "expected_source_contains": "network",
+    "category": "factual"
+  },
+  {
+    "question": "what is a Docker volume",
+    "expected_refuse": false,
+    "expected_tool": "docker",
+    "expected_source_contains": "volumes",
+    "category": "factual"
+  },
+  {
+    "question": "how do I use Docker Compose with multiple compose files",
+    "expected_refuse": false,
+    "expected_tool": "docker",
+    "expected_source_contains": "merge",
+    "category": "how-to"
+  },
+  {
+    "question": "what is Docker Compose used for",
+    "expected_refuse": false,
+    "expected_tool": "docker",
+    "expected_source_contains": "compose",
+    "category": "factual"
+  },
+  {
+    "question": "how do I run multiple processes in a single container",
+    "expected_refuse": false,
+    "expected_tool": "docker",
+    "expected_source_contains": "multi-service_container",
+    "category": "how-to"
+  },
+  {
+    "question": "what is the difference between a bind mount and a volume",
+    "expected_refuse": false,
+    "expected_tool": "docker",
+    "expected_source_contains": "bind-mounts",
+    "category": "comparative"
+  },
+  {
+    "question": "how do I limit CPU usage for a Docker container",
+    "expected_refuse": false,
+    "expected_tool": "docker",
+    "expected_source_contains": "resource_constraints",
+    "category": "config"
+  },
+  {
+    "question": "what restart policies does Docker support",
+    "expected_refuse": false,
+    "expected_tool": "docker",
+    "expected_source_contains": "start-containers-automatically",
+    "category": "factual"
+  },
+  {
+    "question": "how do I reduce the size of a Docker image using build stages",
+    "expected_refuse": false,
+    "expected_tool": "docker",
+    "expected_source_contains": "multi-stage",
+    "category": "how-to"
+  },
+  {
+    "question": "what are the default Docker network types",
+    "expected_refuse": false,
+    "expected_tool": "docker",
+    "expected_source_contains": "network",
+    "category": "factual"
+  },
+  {
+    "question": "how do I persist data outside a container in Docker",
+    "expected_refuse": false,
+    "expected_tool": "docker",
+    "expected_source_contains": "volumes",
+    "category": "how-to"
+  },
+  {
+    "question": "how do containers on the same Docker network communicate",
+    "expected_refuse": false,
+    "expected_tool": "docker",
+    "expected_source_contains": "network",
+    "category": "factual"
+  },
+  {
+    "question": "how do I override settings across multiple Docker Compose files",
+    "expected_refuse": false,
+    "expected_tool": "docker",
+    "expected_source_contains": "merge",
+    "category": "how-to"
+  },
+  {
+    "question": "what happens to data in a container without a volume when it stops",
+    "expected_refuse": false,
+    "expected_tool": "docker",
+    "expected_source_contains": "volumes",
+    "category": "factual"
+  },
+  {
+    "question": "how do I check what's using a container's storage",
+    "expected_refuse": false,
+    "expected_tool": "docker",
+    "expected_source_contains": "storage",
+    "category": "troubleshooting"
+  },
+  {
+    "question": "what's the on-failure restart policy in Docker",
+    "expected_refuse": false,
+    "expected_tool": "docker",
+    "expected_source_contains": "start-containers-automatically",
+    "category": "factual"
+  },
+  {
+    "question": "how do I reference a Terraform output in another module",
+    "expected_refuse": false,
+    "expected_tool": "terraform",
+    "expected_source_contains": "modules_syntax",
+    "category": "how-to"
+  },
+  {
+    "question": "what is the Terraform lifecycle meta-argument",
+    "expected_refuse": false,
+    "expected_tool": "terraform",
+    "expected_source_contains": "meta-arguments_lifecycle",
+    "category": "factual"
+  },
+  {
+    "question": "how does Terraform state work",
+    "expected_refuse": false,
+    "expected_tool": "terraform",
+    "expected_source_contains": "state_index",
+    "category": "factual"
+  },
+  {
+    "question": "how do I declare a Terraform variable",
+    "expected_refuse": false,
+    "expected_tool": "terraform",
+    "expected_source_contains": "values_variables",
+    "category": "how-to"
+  },
+  {
+    "question": "what is a Terraform provisioner",
+    "expected_refuse": false,
+    "expected_tool": "terraform",
+    "expected_source_contains": "resources_provisioners_syntax",
+    "category": "factual"
+  },
+  {
+    "question": "how do I configure a Terraform backend",
+    "expected_refuse": false,
+    "expected_tool": "terraform",
+    "expected_source_contains": "backend_index",
+    "category": "how-to"
+  },
+  {
+    "question": "what is a Terraform data source",
+    "expected_refuse": false,
+    "expected_tool": "terraform",
+    "expected_source_contains": "data-sources_index",
+    "category": "factual"
+  },
+  {
+    "question": "how do I require a specific provider version in Terraform",
+    "expected_refuse": false,
+    "expected_tool": "terraform",
+    "expected_source_contains": "providers_requirements",
+    "category": "how-to"
+  },
+  {
+    "question": "how do I define a local value in Terraform",
+    "expected_refuse": false,
+    "expected_tool": "terraform",
+    "expected_source_contains": "values_locals",
+    "category": "how-to"
+  },
+  {
+    "question": "what does the prevent_destroy lifecycle setting do",
+    "expected_refuse": false,
+    "expected_tool": "terraform",
+    "expected_source_contains": "meta-arguments_lifecycle",
+    "category": "factual"
+  },
+  {
+    "question": "how do I pass variables into a Terraform module",
+    "expected_refuse": false,
+    "expected_tool": "terraform",
+    "expected_source_contains": "modules_syntax",
+    "category": "how-to"
+  },
+  {
+    "question": "what is stored in the Terraform state file",
+    "expected_refuse": false,
+    "expected_tool": "terraform",
+    "expected_source_contains": "state_index",
+    "category": "factual"
+  },
+  {
+    "question": "how do I mark a Terraform variable as sensitive",
+    "expected_refuse": false,
+    "expected_tool": "terraform",
+    "expected_source_contains": "values_variables",
+    "category": "how-to"
+  },
+  {
+    "question": "how do I use provisioners to run scripts after resource creation",
+    "expected_refuse": false,
+    "expected_tool": "terraform",
+    "expected_source_contains": "resources_provisioners_syntax",
+    "category": "how-to"
+  },
+  {
+    "question": "what backends does Terraform support for storing state",
+    "expected_refuse": false,
+    "expected_tool": "terraform",
+    "expected_source_contains": "backend_index",
+    "category": "factual"
+  },
+  {
+    "question": "how do I use a data source to look up existing infrastructure",
+    "expected_refuse": false,
+    "expected_tool": "terraform",
+    "expected_source_contains": "data-sources_index",
+    "category": "how-to"
+  },
+  {
+    "question": "how do I specify provider requirements in a Terraform module",
+    "expected_refuse": false,
+    "expected_tool": "terraform",
+    "expected_source_contains": "providers_requirements",
+    "category": "how-to"
+  },
+  {
+    "question": "what is the syntax for defining a Terraform resource block",
+    "expected_refuse": false,
+    "expected_tool": "terraform",
+    "expected_source_contains": "resources_syntax",
+    "category": "factual"
+  },
+  {
+    "question": "how do I output a value from a Terraform module",
+    "expected_refuse": false,
+    "expected_tool": "terraform",
+    "expected_source_contains": "values_outputs",
+    "category": "how-to"
+  },
+  {
+    "question": "what does create_before_destroy do in Terraform",
+    "expected_refuse": false,
+    "expected_tool": "terraform",
+    "expected_source_contains": "meta-arguments_lifecycle",
+    "category": "factual"
+  },
+  {
+    "question": "how do local values differ from input variables in Terraform",
+    "expected_refuse": false,
+    "expected_tool": "terraform",
+    "expected_source_contains": "values_locals",
+    "category": "comparative"
+  },
+  {
+    "question": "how do I set a memory limit on a container",
+    "expected_refuse": false,
+    "expected_tool": "any_of:kubernetes,docker",
+    "expected_source_contains": null,
+    "category": "cross-tool"
+  },
+  {
+    "question": "how do I mount a volume for persistent storage",
+    "expected_refuse": false,
+    "expected_tool": "any_of:kubernetes,docker",
+    "expected_source_contains": null,
+    "category": "cross-tool"
+  },
+  {
+    "question": "how do containers get automatically restarted after a crash",
+    "expected_refuse": false,
+    "expected_tool": "any_of:kubernetes,docker",
+    "expected_source_contains": null,
+    "category": "cross-tool"
+  },
+  {
+    "question": "how is configuration data separated from application code",
+    "expected_refuse": false,
+    "expected_tool": "any_of:kubernetes,terraform,docker",
+    "expected_source_contains": null,
+    "category": "cross-tool"
+  },
+  {
+    "question": "what is a resource in the context of infrastructure or containers",
+    "expected_refuse": false,
+    "expected_tool": "any_of:kubernetes,docker,terraform",
+    "expected_source_contains": null,
+    "category": "cross-tool"
+  },
+  {
+    "question": "how do networks isolate containers or resources",
+    "expected_refuse": false,
+    "expected_tool": "any_of:kubernetes,docker",
+    "expected_source_contains": null,
+    "category": "cross-tool"
+  },
+  {
+    "question": "how do you reference values defined elsewhere in configuration",
+    "expected_refuse": false,
+    "expected_tool": "any_of:kubernetes,terraform",
+    "expected_source_contains": null,
+    "category": "cross-tool"
+  },
+  {
+    "question": "how is sensitive data like passwords handled in configuration",
+    "expected_refuse": false,
+    "expected_tool": "any_of:kubernetes,terraform",
+    "expected_source_contains": null,
+    "category": "cross-tool"
+  },
+  {
+    "question": "whats the best pizza topping",
+    "expected_refuse": true,
+    "expected_tool": null,
+    "expected_source_contains": null,
+    "category": "refusal"
+  },
+  {
+    "question": "how do I file my taxes",
+    "expected_refuse": true,
+    "expected_tool": null,
+    "expected_source_contains": null,
+    "category": "refusal"
+  },
+  {
+    "question": "whats the weather in Mumbai today",
+    "expected_refuse": true,
+    "expected_tool": null,
+    "expected_source_contains": null,
+    "category": "refusal"
+  },
+  {
+    "question": "how do I train a neural network",
+    "expected_refuse": true,
+    "expected_tool": null,
+    "expected_source_contains": null,
+    "category": "refusal"
+  },
+  {
+    "question": "whats the capital of France",
+    "expected_refuse": true,
+    "expected_tool": null,
+    "expected_source_contains": null,
+    "category": "refusal"
+  },
+  {
+    "question": "how do I configure Kubernetes on Windows Server 2003",
+    "expected_refuse": true,
+    "expected_tool": null,
+    "expected_source_contains": null,
+    "category": "refusal"
+  },
+  {
+    "question": "how do I fix my car engine",
+    "expected_refuse": true,
+    "expected_tool": null,
+    "expected_source_contains": null,
+    "category": "refusal"
+  },
+  {
+    "question": "whats a good recipe for pasta",
+    "expected_refuse": true,
+    "expected_tool": null,
+    "expected_source_contains": null,
+    "category": "refusal"
+  },
+  {
+    "question": "how do I learn to play guitar",
+    "expected_refuse": true,
+    "expected_tool": null,
+    "expected_source_contains": null,
+    "category": "refusal"
+  },
+  {
+    "question": "whats the stock price of Apple today",
+    "expected_refuse": true,
+    "expected_tool": null,
+    "expected_source_contains": null,
+    "category": "refusal"
+  },
+  {
+    "question": "how do I write a good resume",
+    "expected_refuse": true,
+    "expected_tool": null,
+    "expected_source_contains": null,
+    "category": "refusal"
+  },
+  {
+    "question": "whats the best programming language to learn first",
+    "expected_refuse": true,
+    "expected_tool": null,
+    "expected_source_contains": null,
+    "category": "refusal"
+  },
+  {
+    "question": "how do I lose weight fast",
+    "expected_refuse": true,
+    "expected_tool": null,
+    "expected_source_contains": null,
+    "category": "refusal"
+  },
+  {
+    "question": "who won the last cricket world cup",
+    "expected_refuse": true,
+    "expected_tool": null,
+    "expected_source_contains": null,
+    "category": "refusal"
+  },
+  {
+    "question": "how do I invest in cryptocurrency",
+    "expected_refuse": true,
+    "expected_tool": null,
+    "expected_source_contains": null,
+    "category": "refusal"
+  },
+  {
+    "question": "what's a good birthday gift idea",
+    "expected_refuse": true,
+    "expected_tool": null,
+    "expected_source_contains": null,
+    "category": "refusal"
+  },
+  {
+    "question": "how do I fix a leaking kitchen faucet",
+    "expected_refuse": true,
+    "expected_tool": null,
+    "expected_source_contains": null,
+    "category": "refusal"
+  },
+  {
+    "question": "how do I set up a MySQL database",
+    "expected_refuse": true,
+    "expected_tool": null,
+    "expected_source_contains": null,
+    "category": "refusal"
+  },
+  {
+    "question": "how do I configure an AWS Lambda function",
+    "expected_refuse": true,
+    "expected_tool": null,
+    "expected_source_contains": null,
+    "category": "refusal"
+  },
+  {
+    "question": "what's the difference between Python and JavaScript",
+    "expected_refuse": true,
+    "expected_tool": null,
+    "expected_source_contains": null,
+    "category": "refusal"
+  }
+]

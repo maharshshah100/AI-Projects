@@ -1,0 +1,20 @@
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
+env/
+.env
+
+# Generated indexes -- rebuild with `python3 src/build_index.py`,
+# don't commit these (they're large and regenerate deterministically)
+data/index/
+
+# eval output (regenerate with `python3 eval/run_eval.py`)
+eval/eval_report.json
+
+.DS_Store
+*.log
+.streamlit/
+.pytest_cache/
+.env

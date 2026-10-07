@@ -1,0 +1,18 @@
+fastapi>=0.110
+uvicorn>=0.29
+rank_bm25>=0.2.2
+scikit-learn>=1.4
+numpy>=1.26
+groq>=0.11
+markdown-it-py>=3.0
+requests>=2.31
+streamlit>=1.35
+
+# Real transformer embeddings (recommended for production use, needs
+# normal internet access to huggingface.co -- not available inside the
+# sandbox this was originally built in):
+fastembed>=0.3
+
+# Optional, for a stronger reranker than the lexical-overlap one included
+# here (also needs huggingface.co access):
+# sentence-transformers>=2.7

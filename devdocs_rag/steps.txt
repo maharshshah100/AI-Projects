@@ -1,0 +1,11 @@
+step 1 in cmd :
+
+cd "C:\Users\MAHARSH SHAH\Desktop\AI\DEV docs AI Project\devdocs_rag"
+
+step 2 in cmd :
+
+venv\Scripts\activate
+
+step 3 in cmd :
+
+python -m streamlit run streamlit_app.py
