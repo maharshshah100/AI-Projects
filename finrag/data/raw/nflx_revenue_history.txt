@@ -1,0 +1,11 @@
+SOURCE: Netflix, Inc. Annual Revenue History (compiled from 10-K filings, calendar fiscal year), 2024
+FILED: Compiled from public filings, current as of 2025
+COMPANY: Netflix Inc. (NFLX)
+CIK: 0001065280
+URL: https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001065280
+
+=== ANNUAL REVENUE HISTORY ===
+
+Netflix annual revenue by calendar year (dollars in billions): 2020 $25.0, 2021 $29.7 (+18.8%), 2022 $31.6 (+6.5%, growth slowed sharply amid subscriber saturation in mature markets), 2023 $33.72 (+6.7%), 2024 $39.0 (+15.6%, reaccelerated on ad-tier subscriber growth and the password-sharing crackdown converting freeloaders to paid accounts).
+
+Netflix's growth trajectory shows a clear pattern: rapid pandemic-era growth (2020-2021), a sharp slowdown (2022) as the streaming market matured and competition intensified, followed by a deliberate strategic reacceleration (2023-2024) driven by two specific initiatives -- the ad-supported tier and password-sharing enforcement.

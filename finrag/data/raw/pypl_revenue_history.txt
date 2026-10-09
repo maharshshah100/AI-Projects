@@ -1,0 +1,9 @@
+SOURCE: PayPal Holdings, Inc. Annual Revenue History (compiled from 10-K filings, calendar fiscal year), 2024
+FILED: Compiled from public filings, current as of 2025
+COMPANY: PayPal Holdings Inc. (PYPL)
+CIK: 0001633917
+URL: https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001633917
+
+=== ANNUAL REVENUE HISTORY ===
+
+PayPal annual net revenue (dollars in billions): FY2021 $25.4 (+18%), FY2024 $31.79. PayPal's revenue growth decelerated substantially after 2021 as e-commerce growth normalized following the pandemic-era surge, and competition in digital payments intensified from both traditional card networks and newer fintech entrants.

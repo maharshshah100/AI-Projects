@@ -1,0 +1,11 @@
+SOURCE: NVIDIA Corporation Annual Revenue History (compiled from 10-K filings, fiscal year ends late January), 2024
+FILED: Compiled from public filings, current as of 2025
+COMPANY: NVIDIA Corporation (NVDA)
+CIK: 0001045810
+URL: https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001045810
+
+=== ANNUAL REVENUE HISTORY ===
+
+Nvidia annual revenue by fiscal year (fiscal year ends late January; dollars in billions): FY2023 (ended Jan 2023) $26.97, FY2024 (ended Jan 2024) $60.92 (+126%, more than doubling year-over-year). This growth was driven overwhelmingly by AI data center GPU demand, particularly for training and running large language models, representing one of the fastest large-scale revenue ramps of any major public company in recent history.
+
+Nvidia's revenue is concentrated in its Data Center segment (AI/ML infrastructure GPUs), with Gaming, Professional Visualization, and Automotive as smaller segments.

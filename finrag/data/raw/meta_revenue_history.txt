@@ -1,0 +1,11 @@
+SOURCE: Meta Platforms, Inc. Annual Revenue History (compiled from 10-K filings, calendar fiscal year), 2024
+FILED: Compiled from public filings, current as of 2025
+COMPANY: Meta Platforms Inc. (META)
+CIK: 0001326801
+URL: https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001326801
+
+=== ANNUAL REVENUE HISTORY ===
+
+Meta Platforms annual revenue by calendar year (dollars in billions): 2023 $134.90, 2024 $164.50 (+21.9%). Growth in 2024 was driven by digital advertising demand and improved ad targeting and pricing, following a slower growth period in 2022 amid a broader digital ad market slowdown and rising competition for user attention.
+
+Meta's revenue is overwhelmingly derived from advertising across Facebook, Instagram, and its other apps. Reality Labs (VR/AR/metaverse investments) represents a small fraction of revenue but a large share of operating losses, reflecting Meta's long-term bet on the category.

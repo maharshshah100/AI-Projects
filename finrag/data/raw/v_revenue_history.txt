@@ -1,0 +1,9 @@
+SOURCE: Visa Inc. Annual Revenue History (compiled from 10-K filings, fiscal year ends September), 2024
+FILED: Compiled from public filings, current as of 2025
+COMPANY: Visa Inc. (V)
+CIK: 0001403161
+URL: https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001403161
+
+=== ANNUAL REVENUE HISTORY ===
+
+Visa annual revenue by fiscal year (fiscal year ends September; dollars in billions): FY2023 $32.65, FY2024 $35.93 (+10.0%). Visa's revenue is driven primarily by payments volume, transaction processing fees, and international transaction/cross-border fees -- Visa itself does not issue cards or extend credit; it operates the payments network that banks and merchants use.

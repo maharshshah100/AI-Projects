@@ -1,0 +1,15 @@
+SOURCE: Amazon.com, Inc. Annual Revenue History (compiled from 10-K filings, calendar fiscal year), 2024
+FILED: Compiled from public filings, current as of 2025
+COMPANY: Amazon.com Inc. (AMZN)
+CIK: 0001018724
+URL: https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001018724
+
+=== ANNUAL REVENUE HISTORY ===
+
+Amazon annual revenue by calendar year (dollars in billions): 2016 $135.99, 2017 $177.87 (+30.8%), 2018 $232.89 (+30.9%), 2019 $280.52 (+20.5%), 2020 $386.06 (+37.6%), 2021 $469.82 (+21.7%), 2022 $513.98 (+9.4%), 2023 $574.78 (+11.8%), 2024 $637.96 (+11.0%).
+
+Amazon has posted nine consecutive years of revenue growth through 2024. Amazon's business is organized into three primary segments: North America, International, and Amazon Web Services (AWS). AWS is Amazon's highest-margin segment and has been a primary driver of overall operating profit even in years when the retail segments operated on thin margins.
+
+=== BUSINESS NOTES ===
+
+Amazon's revenue mix spans e-commerce retail (North America and International segments) and cloud infrastructure (AWS). Unlike a pure retailer, a meaningful and growing share of Amazon's profitability comes from AWS rather than the retail operations, even though retail represents the larger share of total revenue.

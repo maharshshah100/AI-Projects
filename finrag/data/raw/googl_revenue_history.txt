@@ -1,0 +1,11 @@
+SOURCE: Alphabet Inc. Annual Revenue History (compiled from 10-K filings, calendar fiscal year), 2024
+FILED: Compiled from public filings, current as of 2025
+COMPANY: Alphabet Inc. (GOOGL)
+CIK: 0001652044
+URL: https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001652044
+
+=== ANNUAL REVENUE HISTORY ===
+
+Alphabet (Google) annual revenue by calendar year (dollars in billions): 2016 $90.27, 2017 $110.86 (+22.8%), 2018 $136.82 (+23.4%), 2019 $161.86 (+18.3%), 2020 $182.53 (+12.8%), 2021 $257.64 (+41.2%), 2022 $282.84 (+9.8%), 2023 $307.39 (+8.7%), 2024 $350.02 (+13.9%).
+
+Alphabet's revenue is driven predominantly by Google advertising (Search, YouTube, Network), with Google Cloud and other bets contributing a smaller but growing share. 2021 saw the sharpest growth as digital ad spend rebounded strongly post-pandemic.

@@ -1,0 +1,9 @@
+SOURCE: The Goldman Sachs Group, Inc. Annual Net Revenue History (compiled from 10-K filings, calendar fiscal year), 2025
+FILED: Compiled from public filings, current as of 2025
+COMPANY: The Goldman Sachs Group Inc. (GS)
+CIK: 0000886982
+URL: https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0000886982
+
+=== ANNUAL NET REVENUE HISTORY -- ACCOUNTING NOTE ===
+
+Goldman Sachs annual net revenue (dollars in billions, approximate): 2021 (peak) $59.34, declining in subsequent years amid a slower investment banking and trading environment, then recovering to approximately $58.28 by 2025. Like JPMorgan Chase, this is net revenue, not gross sales -- Goldman Sachs is an investment bank, and its revenue is driven by trading, investment banking fees, and asset/wealth management, not product sales. Direct comparison to a non-bank's revenue is not meaningful without accounting for this difference.

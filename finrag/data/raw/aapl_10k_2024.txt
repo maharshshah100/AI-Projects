@@ -1,0 +1,106 @@
+SOURCE: Apple Inc. Form 10-K, Fiscal Year Ended September 28, 2024
+FILED: November 1, 2024
+COMPANY: Apple Inc. (AAPL)
+CIK: 0000320193
+URL: https://www.sec.gov/Archives/edgar/data/320193/000032019324000123/aapl-20240928.htm
+
+=== ANNUAL REVENUE HISTORY ===
+
+Apple annual revenue by fiscal year (fiscal year ends late September; dollars in billions): FY2016 $215.64, FY2019 $260.17, FY2020 $274.52 (+5.5%), FY2021 $365.82 (+33.3%), FY2022 $394.33 (+7.8%), FY2023 $383.29 (-2.8%), FY2024 $391.04 (+2.0%).
+
+=== ITEM 1. BUSINESS ===
+
+Company Background
+The Company designs, manufactures and markets smartphones, personal computers, tablets, wearables and accessories, and sells a variety of related services. The Company's fiscal year is the 52- or 53-week period that ends on the last Saturday of September.
+
+Segments
+The Company manages its business primarily on a geographic basis. The Company's reportable segments consist of the Americas, Europe, Greater China, Japan and Rest of Asia Pacific. Americas includes both North and South America. Europe includes European countries, as well as India, the Middle East and Africa. Greater China includes China mainland, Hong Kong and Taiwan. Rest of Asia Pacific includes Australia and those Asian countries not included in the Company's other reportable segments.
+
+Human Capital
+As of September 28, 2024, the Company had approximately 164,000 full-time equivalent employees.
+
+=== ITEM 1A. RISK FACTORS (SELECTED) ===
+
+Macroeconomic and Industry Risks
+The Company's operations and performance depend significantly on global and regional economic conditions and adverse economic conditions can materially adversely affect the Company's business, results of operations and financial condition. The Company has international operations with sales outside the U.S. representing a majority of the Company's total net sales.
+
+Global markets for the Company's products and services are highly competitive and subject to rapid technological change, and the Company may be unable to compete effectively in these markets. The Company has a minority market share in the global smartphone, personal computer and tablet markets.
+
+The Company's products and services may be affected from time to time by design and manufacturing defects. The introduction of new and complex technologies, such as artificial intelligence features, can increase these and other safety risks, including exposing users to harmful, inaccurate or other negative content and experiences.
+
+Legal and Regulatory Compliance Risks
+The Company's global operations are subject to complex and changing laws and regulations worldwide, which exposes the Company to potential liabilities, increased costs and other adverse effects on the Company's business, including antitrust; privacy, data security and data localization; digital platforms; machine learning and artificial intelligence.
+
+=== ITEM 3. LEGAL PROCEEDINGS ===
+
+Digital Markets Act Investigations
+On March 25, 2024, the European Commission announced that it had opened two formal noncompliance investigations against the Company under the DMA. If the Commission makes a final determination that there has been a violation, it can issue a cease and desist order and may impose fines up to 10% of the Company's annual worldwide net sales.
+
+Department of Justice Lawsuit
+On March 21, 2024, the U.S. Department of Justice and a number of state and district attorneys general filed a civil antitrust lawsuit against the Company alleging monopolization or attempted monopolization in the markets for "performance smartphones" and "smartphones" in violation of U.S. antitrust laws.
+
+=== ITEM 7. MANAGEMENT'S DISCUSSION AND ANALYSIS ===
+
+Product, Service and Software Announcements (Fiscal Year 2024)
+Third Quarter 2024 included Apple Intelligence, a personal intelligence system that uses generative models.
+Fourth Quarter 2024 included iPhone 16, iPhone 16 Plus, iPhone 16 Pro and iPhone 16 Pro Max; Apple Watch Series 10; and AirPods 4.
+
+Segment Operating Performance
+Net sales by reportable segment for 2024, 2023 and 2022 (dollars in millions):
+
+Americas: $167,045 (2024), +3% change, $162,560 (2023), -4% change, $169,658 (2022)
+Europe: $101,328 (2024), +7% change, $94,294 (2023), -1% change, $95,118 (2022)
+Greater China: $66,952 (2024), -8% change, $72,559 (2023), -2% change, $74,200 (2022)
+Japan: $25,052 (2024), +3% change, $24,257 (2023), -7% change, $25,977 (2022)
+Rest of Asia Pacific: $30,658 (2024), +4% change, $29,615 (2023), +1% change, $29,375 (2022)
+Total net sales: $391,035 (2024), +2% change, $383,285 (2023), -3% change, $394,328 (2022)
+
+Greater China net sales decreased during 2024 compared to 2023 due primarily to lower net sales of iPhone and iPad. The weakness in the renminbi relative to the U.S. dollar had an unfavorable year-over-year impact on Greater China net sales during 2024.
+
+Products and Services Performance
+Net sales by category for 2024, 2023 and 2022 (dollars in millions):
+
+iPhone: $201,183 (2024), 0% change, $200,583 (2023), -2% change, $205,489 (2022)
+Mac: $29,984 (2024), +2% change, $29,357 (2023), -27% change, $40,177 (2022)
+iPad: $26,694 (2024), -6% change, $28,300 (2023), -3% change, $29,292 (2022)
+Wearables, Home and Accessories: $37,005 (2024), -7% change, $39,845 (2023), -3% change, $41,241 (2022)
+Services: $96,169 (2024), +13% change, $85,200 (2023), +9% change, $78,129 (2022)
+Total net sales: $391,035 (2024), +2% change, $383,285 (2023), -3% change, $394,328 (2022)
+
+Services net sales increased during 2024 compared to 2023 due primarily to higher net sales from advertising, the App Store and cloud services.
+
+Gross Margin
+Products and Services gross margin and gross margin percentage for 2024, 2023 and 2022 (dollars in millions):
+
+Products gross margin: $109,633 (2024), $108,803 (2023), $114,728 (2022)
+Services gross margin: $71,050 (2024), $60,345 (2023), $56,054 (2022)
+Total gross margin: $180,683 (2024), $169,148 (2023), $170,782 (2022)
+Products gross margin percentage: 37.2% (2024), 36.5% (2023), 36.3% (2022)
+Services gross margin percentage: 73.9% (2024), 70.8% (2023), 71.7% (2022)
+Total gross margin percentage: 46.2% (2024), 44.1% (2023), 43.3% (2022)
+
+Products gross margin and Products gross margin percentage increased during 2024 compared to 2023 due to cost savings, partially offset by a different Products mix and the weakness in foreign currencies relative to the U.S. dollar.
+
+Operating Expenses
+Operating expenses for 2024, 2023 and 2022 (dollars in millions):
+
+Research and development: $31,370 (2024), +5% change, $29,915 (2023), +14% change, $26,251 (2022)
+R&D percentage of total net sales: 8% (2024), 8% (2023), 7% (2022)
+Selling, general and administrative: $26,097 (2024), +5% change, $24,932 (2023), -1% change, $25,094 (2022)
+Total operating expenses: $57,467 (2024), +5% change, $54,847 (2023), +7% change, $51,345 (2022)
+
+The growth in R&D expense during 2024 compared to 2023 was driven primarily by increases in headcount-related expenses.
+
+Provision for Income Taxes
+Provision for income taxes, effective tax rate for 2024, 2023 and 2022:
+
+Provision for income taxes: $29,749 million (2024), $16,741 million (2023), $19,300 million (2022)
+Effective tax rate: 24.1% (2024), 14.7% (2023), 16.2% (2022)
+Statutory federal income tax rate: 21% (all years)
+
+The Company's effective tax rate for 2024 was higher than the statutory federal income tax rate due primarily to a one-time income tax charge of $10.2 billion, net, related to the State Aid Decision and state income taxes, partially offset by a lower effective tax rate on foreign earnings.
+
+Liquidity and Capital Resources
+The Company's balances of unrestricted cash, cash equivalents and marketable securities totaled $140.8 billion as of September 28, 2024.
+As of September 28, 2024, the Company had outstanding fixed-rate notes with varying maturities for an aggregate principal amount of $97.3 billion.
+During 2024, the Company repurchased $95.0 billion of its common stock and paid dividends and dividend equivalents of $15.2 billion.

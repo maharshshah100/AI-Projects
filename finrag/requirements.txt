@@ -1,0 +1,7 @@
+groq
+streamlit
+pandas
+plotly
+python-dotenv
+tavily-python
+scikit-learn

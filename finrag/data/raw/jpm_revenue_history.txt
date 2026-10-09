@@ -1,0 +1,9 @@
+SOURCE: JPMorgan Chase & Co. Annual Net Revenue History (compiled from 10-K filings, calendar fiscal year), 2023
+FILED: Compiled from public filings, current as of 2025
+COMPANY: JPMorgan Chase & Co. (JPM)
+CIK: 0000019617
+URL: https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0000019617
+
+=== ANNUAL NET REVENUE HISTORY -- ACCOUNTING NOTE ===
+
+JPMorgan Chase reported net revenue of $158.1 billion in 2023, a then-record high for the company. IMPORTANT ACCOUNTING NOTE: bank "revenue" is fundamentally not comparable to a technology or consumer company's revenue. Banks report net revenue (interest income minus interest expense, plus fee-based income), not gross sales, because their core business is lending money and managing risk, not selling a product at a fixed price. Comparing a bank's net revenue directly against a tech company's gross revenue significantly understates the bank's actual scale of financial activity.
