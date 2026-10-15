@@ -1,0 +1,17 @@
+# Exact versions tested together (all current at time of build).
+pandas==3.0.5
+openpyxl==3.1.5
+numpy==2.5.3
+python-dateutil==2.9.0.post0
+rapidfuzz==3.14.6
+scikit-learn==1.8.0
+plotly==7.0.0
+streamlit==1.65.0
+groq==1.7.0
+voyageai==0.5.0
+qdrant-client==1.19.0
+tavily-python==0.8.5
+python-dotenv==1.2.3
+pypdf==5.9.0
+# kaleido is intentionally NOT included: Streamlit renders Plotly in the browser,
+# and kaleido (image export) would add a Chrome dependency for no benefit.
